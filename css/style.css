@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+/* topo
+*/
+
+#cabecalho{
+    background: rgb(157, 193, 235);
+    width: 100%;
+}
+
+#logo{
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+#menu a:link, #menu a:visited{
+    color: aliceblue;
+    padding: 5px;
+}
+
+#menu a:hover, #menu a:active{
+    color: rgb(157, 193, 235);
+    background-color: aliceblue;
+    text-decoration: underline;
+}
+
+/* topo fim
+*/
